@@ -14,7 +14,6 @@ btnClose.addEventListener('click',()=>{
 document.addEventListener('DOMContentLoaded', loadfood())
 function loadfood(){
     removeItemFromCart();
-    console.log('hey')
 }
 
 function removeItemFromCart(){
