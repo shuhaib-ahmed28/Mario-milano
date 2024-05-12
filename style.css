@@ -292,3 +292,10 @@ i {
 #comment > .container > h1 {
   font-size: 3rem;
 }
+
+#footer{
+  width: 100vw;
+  height:600px;
+  background-color: #143735;
+  
+}
